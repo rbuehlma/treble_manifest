@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="rbuehlma" fetch="https://github.com/rbuehlma/" />
+
+<project path="device/phh/treble" name="device_phh_treble" remote="rbuehlma" revision="android-9.0" />
+</manifest>
